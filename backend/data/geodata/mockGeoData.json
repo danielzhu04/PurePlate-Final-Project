@@ -1,0 +1,58 @@
+{"type": "FeatureCollection",
+  "features":
+    [{"type":"Feature",
+      "geometry":
+        {"type":"MultiPolygon",
+          "coordinates":
+            [[[[-86,33],
+              [-86,34],
+              [-87,34],
+              [-87,33],
+              [-86.7,33.5]]]]
+        },
+      "properties":
+        {"state":"AL",
+          "city":"Birmingham",
+          "name":"Mountain Brook Estates and Country Club Gardens (outside city limits)",
+          "holc_id":"A1",
+          "holc_grade":"A",
+          "neighborhood_id":244,
+          "area_description_data":
+            {"5":"Description."}
+        }
+    },
+      {"type":"Feature",
+        "geometry":
+          {"type":"MultiPolygon",
+            "coordinates":
+              [[[[-87,35],
+                [-87,34],
+                [-88,35],
+                [-88.3,34.5]]]]
+          },
+        "properties":
+          {"state":"AL",
+            "city":"Birmingham",
+            "name":"Redmont Park, Rockridge Park, Warwick Manor, and southern portion of Milner Heights",
+            "holc_id":"A2",
+            "holc_grade":"A",
+            "neighborhood_id":193,
+            "area_description_data":
+              {"31":"83 Description."}
+          }
+      },
+      {"type":"Feature",
+        "geometry": null,
+        "properties":
+        {"state":"TX",
+          "city":"Beaumont",
+          "name":null,
+          "holc_id":null,
+          "holc_grade":null,
+          "neighborhood_id":8898,
+          "area_description_data":
+            {"":""}
+        }
+      }
+    ]
+}

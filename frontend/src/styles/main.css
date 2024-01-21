@@ -1,0 +1,488 @@
+/*
+  This is a reasonable starting point for the CSS in Mock.
+  Positioning in CSS can sometimes be annoying to manage, so we've opted to 
+  give you this starter CSS. Feel free to modify it as you wish, though.
+*/
+
+button {
+  font-size: 20px;
+  font-weight: 500;
+  font-family: BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  margin-right: 5%;
+  margin-top: 0%;
+  border: 0ch;
+  border-radius: 12px;
+  display: flexbox;
+  color: rgb(240, 245, 239);
+  background-color: transparent;
+  transform: translate(600px, 0px);
+}
+
+button:hover {
+  color: rgb(62, 142, 75); /* Change text color on hover */
+  cursor: pointer;
+}
+
+#headerbar {
+  /* This is the header */
+  font-weight: 500;
+  padding-top: 15px;
+  padding-left: 15px;
+  font-family: BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-size: 25px;
+  text-align: start;
+  color: rgb(255, 255, 255);
+  background-color: #392d22;
+  position: fixed;
+  margin-top: 0%;
+  height: 50px;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+}
+#Daniel {
+  font-size: large;
+  font-family: BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  transform: translate(100px, -50px);
+}
+#Kyle {
+  font-size: large;
+  font-family: BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  transform: translate(400px, -128px);
+}
+#Grace {
+  font-size: large;
+  font-family: BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  transform: translate(100px, 50px);
+}
+#Wilson {
+  font-size: large;
+  font-family: BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  transform: translate(400px, -28px);
+}
+#MeetTheTeam {
+  font-size: 60px;
+  font-family: BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  transform: translate(250px, -170px);
+  padding-right: 100px;
+}
+h2 {
+  font-size: large;
+  text-overflow: ellipsis;
+  text-align: start;
+  background-color: #261b11;
+  position: static;
+  margin-top: 20%;
+}
+h3 {
+  /* our mission title */
+
+  font-size: 60px;
+  font-family: BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  text-overflow: ellipsis;
+  text-align: start;
+  background-color: transparent;
+  position: static;
+  margin-top: 10%;
+  padding-left: 100px;
+}
+h4 {
+  /* our misison content */
+  font-size: large;
+  font-family: BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  width: 400px;
+  padding-top: 0%;
+  padding-left: 100px;
+  text-overflow: ellipsis;
+  text-align: start;
+  background-color: transparent;
+  position: static;
+  margin-top: 0%;
+}
+
+.potted-plant-image-container {
+  margin: auto;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  top: 750px;
+  left: 0x;
+}
+.potted-plant-image-container #pottedPlant {
+  border-radius: 30%;
+  width: auto;
+  height: auto;
+}
+
+.granny-image-container {
+  margin: auto;
+  width: 170px;
+  height: 175px;
+  position: absolute;
+  top: 50px;
+  left: 550px;
+}
+.granny-image-container #grannyImage {
+  border-radius: 30%;
+  width: 100%;
+  height: 100%;
+}
+
+.image-container {
+  margin: auto;
+  width: 170px;
+  height: 175px;
+  position: absolute;
+  top: 1040px;
+  left: 920px;
+}
+.image-container #wilsonsPhoto {
+  border-radius: 30%;
+  width: 100%;
+  height: 100%;
+  transform: translate(0px, 30px);
+}
+
+.image-container2 {
+  margin: auto;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 800px;
+  left: 930px;
+}
+.image-container2 #kylesPhoto {
+  border-radius: 30%;
+  width: 100%;
+  height: auto;
+  transform: translate(0px, 40px);
+}
+
+.image-container3 {
+  margin: auto;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 800px;
+  left: 635px;
+}
+.image-container3 #danielsPhoto {
+  border-radius: 30%;
+  width: 100%;
+  height: auto;
+  transform: translate(0px, 40px);
+}
+
+.image-container4 {
+  margin: auto;
+  width: 170px;
+  height: 150px;
+  position: absolute;
+  top: 1040px;
+  left: 620px;
+}
+.image-container4 #gracesPhoto {
+  border-radius: 30%;
+  width: 100%;
+  height: auto;
+  transform: translate(0px, 35px);
+}
+
+/**Algorithms Page*/
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 20px;
+  width: 50%;
+}
+
+.activity-level-container {
+  display: inline-block;
+  transform: translate(0px, -350px);
+
+  font-family: BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  /* transform: translate(-445px, 225px); */
+}
+.activity-level-container label {
+  cursor: pointer;
+  font-size: medium;
+}
+.activity-level-container input [type="checkbox"] {
+  cursor: pointer;
+}
+input [type="radio"] :checked {
+  font-size: larger;
+}
+.Activity-Level {
+  font-family: BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  color: rgb(0, 0, 0);
+  width: 400px;
+  /* transform: translate(0px, -350px); */
+}
+
+/* GENDER */
+.Gender {
+  font-family: BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  color: rgb(0, 0, 0);
+  width: 400px;
+  /* transform: translate(180px, 360px); */
+}
+.gender-container {
+  font-family: BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  display: inline-block;
+  transform: translate(0px, -350px);
+}
+.gender-container label {
+  cursor: pointer;
+  font-size: medium;
+}
+.gender-container input [type="checkbox"] {
+  cursor: pointer;
+}
+input [type="radio"] :checked {
+  font-size: larger;
+}
+
+/* AGE */
+.Age {
+  font-family: BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  color: rgb(0, 0, 0);
+  width: 400px;
+}
+
+.age-container {
+  display: inline-block;
+  transform: translate(0px, -350px);
+}
+.age-container label {
+  cursor: pointer;
+  font-size: medium;
+}
+.age-container input {
+  cursor: pointer;
+}
+
+/* Height */
+.Height {
+  font-family: BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  color: rgb(0, 0, 0);
+  width: 400px;
+}
+
+.Height-container {
+  font-family: BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  display: inline-block;
+  transform: translate(0px, -350px);
+}
+.Height-container label {
+  cursor: pointer;
+  font-size: medium;
+}
+.Height-container input {
+  cursor: pointer;
+}
+
+/* Weight */
+.Weight {
+  font-family: BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  color: rgb(0, 0, 0);
+  width: 400px;
+  /* transform: translate(0px, 100px); */
+}
+
+.Weight-container {
+  font-family: BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  display: inline-block;
+
+  transform: translate(0px, -350px);
+}
+.Weight-container label {
+  cursor: pointer;
+  padding-top: 0%;
+  font-size: medium;
+}
+.Weight-container input {
+  cursor: pointer;
+}
+
+/* Growable */
+.Growable {
+  font-family: BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  color: rgb(0, 0, 0);
+  width: 400px;
+  /* transform: translate(180px, 260px); */
+}
+.growable-container {
+  font-family: BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  display: inline-block;
+  transform: translate(0px, -350px);
+}
+.growable-container label {
+  cursor: pointer;
+  font-size: medium;
+}
+.growable-container input [type="checkbox"] {
+  cursor: pointer;
+}
+input [type="radio"] :checked {
+  font-size: larger;
+}
+.selectFoods {
+  font-family: BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  transform: translate(0px, -350px);
+  color: rgb(0, 0, 0);
+  font-size: 40px;
+  z-index: 1000;
+  font-weight: 500;
+}
+.food-container {
+  transform: translate(0px, -350px);
+  background: #f4f4f4;
+  border: 2px solid rgba(0, 0, 0, 0.1);
+  height: 200px; /* maximum height of the box, feel free to change this! */
+  width: 400px;
+  overflow-y: scroll;
+}
+
+/*Search History */
+.searchHistory {
+  font-weight: 500;
+  font-size: 30px;
+  font-family: BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  color: rgb(0, 0, 0);
+  width: 400px;
+  transform: translate(700px, 125px);
+}
+
+#Submit_Button {
+  font-size: 20px;
+  /* color: black; */
+  transform: translate(550px, 0px);
+  background-color: #685645;
+  font-weight: 500;
+  font-family: BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
+    Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  /* margin-right: 5%; */
+  /* margin-top: 0%; */
+  /* border: 0ch; */
+  border-radius: 5px;
+  /* display: flexbox; */
+  color: rgb(247, 247, 247);
+  transform: translate(500px, -350px);
+}
+
+#Submit_Button:hover {
+  color: rgb(62, 142, 75);
+  /* background-color: rgb(161, 161, 161); */
+  cursor: pointer;
+}
+
+.scroll-box {
+  height: 400px; /* maximum height of the box, feel free to change this! */
+  overflow-y: scroll;
+  font-size: small;
+}
+
+.scroll-box {
+  background: #f4f4f4;
+  border: 2px solid rgba(0, 0, 0, 0.1);
+  height: 400px; /* maximum height of the box, feel free to change this! */
+  width: 400px;
+  overflow-y: scroll;
+}
+
+.history-entry {
+  margin-bottom: 20px; /* Space between entries */
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #f4f4f4; /* Light gray background */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: adds depth */
+}
+
+.history-entry:last-child {
+  margin-bottom: 0; /* Remove bottom margin for the last entry */
+}
+/* .dropdown-check-list {
+  display: inline-block;
+}
+
+.dropdown-check-list .anchor {
+  position: relative;
+  cursor: pointer;
+  display: inline-block;
+  padding: 5px 50px 5px 10px;
+  border: 1px solid #ccc;
+}
+
+.dropdown-check-list .anchor:after {
+  position: absolute;
+  content: "";
+  border-left: 2px solid black;
+  border-top: 2px solid black;
+  padding: 5px;
+  right: 10px;
+  top: 20%;
+  -moz-transform: rotate(-135deg);
+  -ms-transform: rotate(-135deg);
+  -o-transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+  transform: rotate(-135deg);
+}
+
+.dropdown-check-list .anchor:active:after {
+  right: 8px;
+  top: 21%;
+}
+
+.dropdown-check-list ul.items {
+  padding: 2px;
+  display: none;
+  margin: 0;
+  border: 1px solid #ccc;
+  border-top: none;
+}
+
+.dropdown-check-list ul.items li {
+  list-style: none;
+}
+
+.dropdown-check-list.visible .anchor {
+  color: #0094ff;
+}
+
+.dropdown-check-list.visible .items {
+  display: block;
+} */

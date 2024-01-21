@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+  background-color: #00f908; /* You can replace this with your desired background color */
+  color: white;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 24px;
+}
+
+button {
+  background-color: #008cba; /* You can replace this with your desired button color */
+  color: rgb(141, 18, 18);
+}

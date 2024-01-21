@@ -1,0 +1,96 @@
+Apples, fuji, with skin, raw
+Apples, gala, with skin, raw
+Apples, granny smith, with skin, raw
+Apples, honeycrisp, with skin, raw
+Apples, red delicious, with skin, raw
+Bananas, overripe, raw
+Bananas, ripe and slightly ripe, raw
+Blueberries, raw
+Cherries, sweet, dark red, raw
+Figs, dried, uncooked
+Grapes, green, seedless, raw
+Grapes, red, seedless, raw
+Kiwifruit, green, raw
+Melons, cantaloupe, raw
+Nectarines, raw
+Olives, green, Manzanilla, stuffed with pimiento
+Oranges, raw, navels
+Peaches, yellow, raw
+Pears, raw, bartlett
+Pineapple, raw
+Raspberries, raw
+Strawberries, raw
+Beans, cannellini, dry
+Beans, Dry, Black (0% moisture)
+Beans, Dry, Brown (0% moisture)
+Beans, Dry, Carioca (0% moisture)
+Beans, Dry, Cranberry (0% moisture)
+Beans, Dry, Dark Red Kidney (0% moisture)
+Beans, Dry, Flor de Mayo (0% moisture)
+Beans, Dry, Great Northern (0% moisture)
+Beans, Dry, Light Red Kidney (0% moisture)
+Beans, Dry, Light Tan (0% moisture)
+Beans, Dry, Medium Red (0% moisture)
+Beans, Dry, Navy (0% moisture)
+Beans, Dry, Pink (0% moisture)
+Beans, Dry, Pinto (0% moisture)
+Beans, Dry, Red (0% moisture)
+Beans, Dry, Small Red (0% moisture)
+Beans, Dry, Small White (0% moisture)
+Beans, Dry, Tan (0% moisture)
+Blackeye pea, dry
+Chickpeas, (garbanzo beans, bengal gram), dry
+Lentils, dry
+Peanuts, raw
+Flaxseed, ground
+Nuts, almonds, whole, raw
+Nuts, brazilnuts, raw
+Nuts, cashew nuts, raw
+Nuts, hazelnuts or filberts, raw
+Nuts, macadamia nuts, raw
+Nuts, pecans, halves, raw
+Nuts, pine nuts, raw
+Nuts, pistachio nuts, raw
+Nuts, walnuts, English, halves, raw
+Seeds, pumpkin seeds (pepitas), raw
+Seeds, sunflower seed, kernel, raw
+Beans, snap, green, raw
+Broccoli, raw
+Cabbage, green, raw
+Cabbage, red, raw
+Carrots, baby, raw
+Carrots, mature, raw
+Celery, raw
+Cucumber, with peel, raw
+Garlic, raw
+Kale, raw
+Lettuce, cos or romaine, raw
+Lettuce, iceberg, raw
+Lettuce, leaf, green, raw
+Lettuce, leaf, red, raw
+Lettuce, romaine, green, raw
+Mushroom, beech
+Mushroom, crimini
+Mushroom, enoki
+Mushroom, king oyster
+Mushroom, lion's mane
+Mushroom, maitake
+Mushroom, oyster
+Mushroom, pioppini
+Mushroom, portabella
+Mushrooms, shiitake
+Mushrooms, white button
+Onions, red, raw
+Onions, white, raw
+Onions, yellow, raw
+Peppers, bell, green, raw
+Peppers, bell, orange, raw
+Peppers, bell, red, raw
+Peppers, bell, yellow, raw
+Potatoes, gold, without skin, raw
+Potatoes, red, without skin, raw
+Potatoes, russet, without skin, raw
+Spinach, baby
+Spinach, mature
+Sweet potatoes, orange flesh, without skin, raw
+Tomato, roma

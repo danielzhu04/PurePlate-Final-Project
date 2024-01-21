@@ -1,0 +1,16 @@
+.csvTable {
+    margin: auto;
+    width: 100%;
+    border-collapse: collapse;
+    box-sizing: border-box; /* Add this line */
+}
+
+.tableRow {
+    border: 1px solid #000;
+    padding: 8px;
+}
+
+.tableColumn {
+    border: 1px solid #000; 
+    padding: 8px;
+}
