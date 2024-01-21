@@ -1,0 +1,13 @@
+**/node_modules
+**/src/*.js
+.DS_Store
+**/test-results
+**/playwright-report
+**/playwright/.cache
+**/target/
+**/.idea/
+**/.mvn
+**/.mvn-classpath
+**/pom.xml.bak
+**/key
+**/tests-examples
